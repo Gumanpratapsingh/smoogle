@@ -21,7 +21,7 @@ function Home() {
           <PersonSharpIcon />
         </div>
       </div>
-
+      
       <div className="home_body">
         <img src="https://drive.google.com/uc?export=download&id=1KQnMX8ag3gnpJZX2vKwCvRYssS40p7mX" />
         <div className="home_inputContainer">
